@@ -20,14 +20,12 @@ module.exports = {
         src: 'img/u2665-ad2d6f.svg',
       },
       items: [
-        /*
         {
           type: 'doc',
-          docId: 'intro',
+          docId: 'introduction',
           position: 'left',
-          label: 'Tutorial',
+          label: 'introduction',
         },
-        */
         {
           to: '/blog',
           label: 'blog',
