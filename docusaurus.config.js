@@ -26,12 +26,12 @@ module.exports = {
           position: 'left',
           label: 'introduction',
         },
+        /*
         {
           to: '/blog',
           label: 'blog',
           position: 'left'
         },
-        /*
         {
           href: 'https://github.com/snapr-org',
           label: 'github',
