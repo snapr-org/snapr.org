@@ -17,6 +17,7 @@ the intention behind snapr is that all humans everywhere, should have access to:
 - food
 - clothing
 - shelter
+- healthcare
 - communication
 
 required for survival, without hindrance or obstacle and without exception.
