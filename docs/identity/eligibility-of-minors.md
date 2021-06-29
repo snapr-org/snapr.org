@@ -6,9 +6,11 @@ sidebar_position: 2
 
 at this stage it is not known how eligibility for payouts will be determined for minors. speaking from a technical implementation perspective:
 
-- if **minors are not eligible** for payouts, then identity requires:
-  - a date of birth must be associated with each identity.
-  - a residency locale must be kept up to date in order to determine the date of eligibility for payouts when the age of majority for the locale of residence is reached.
+- if **minors are not eligible** for payouts,
+  - then identity may require:
+    - a date of birth must be associated with each identity.
+    - a residency locale must be kept up to date in order to determine the date of eligibility for payouts when the age of majority for the locale of residence is reached.
+  - alternatively, an identity signer may assert that the identity being signed for, has reached the age of majority in the locale in which they reside
 
 - if **legal guardian(s) are eligible** for payouts on behalf of a minor, then identity requires:
   - a date of birth must be associated with each identity.
