@@ -47,8 +47,8 @@ module.exports = {
           title: 'docs',
           items: [
             {
-              label: 'coming soon...',
-              to: '#',
+              label: 'introduction',
+              to: 'docs/introduction',
             },
           ],
         },
