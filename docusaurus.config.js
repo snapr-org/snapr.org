@@ -56,7 +56,7 @@ module.exports = {
           title: 'contribute',
           items: [
             {
-              label: 'keybase team chat',
+              label: 'chat / faucet',
               href: 'https://keybase.io/team/snapr',
             },
             {
