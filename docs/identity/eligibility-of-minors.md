@@ -5,7 +5,8 @@ sidebar_position: 2
 # eligibility of minors 
 ## (for daily payouts)
 
-at this stage it is not known how eligibility for payouts will be determined for minors. speaking from a technical implementation perspective:
+at this stage it is not known how eligibility for payouts will be determined for minors.  
+speaking from a technical implementation perspective:
 
 - if **minors are not eligible** for payouts,
   - then identity may require:
