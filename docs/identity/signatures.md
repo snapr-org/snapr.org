@@ -8,7 +8,7 @@ each individual who wishes to receive payouts from the distribution algorithm mu
 
 an identity is not a wallet. it is just a record of an individual human.  
 
-an identity does not need to contain any personal information, but it may.
+an identity does not need to contain any personal information, but it may. there is no requirement to associate a legal name with a snapr identity. an individual may identify however they choose.
 
 each individual may have one or more wallets, but only one wallet address is eligible for a payout from the distribution algorithm on any given day.  
 
