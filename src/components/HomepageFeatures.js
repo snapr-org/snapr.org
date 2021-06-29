@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        what if we all worked together to build a better future?
+        what if we worked together to build a better future?
       </>
     ),
   },
