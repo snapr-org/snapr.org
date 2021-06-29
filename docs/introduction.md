@@ -23,6 +23,8 @@ required for survival, without hindrance or obstacle and without exception.
 
 to this end, snapr aspires to a unit value equivalent to that required for human survival on the day it is transacted.
 
+specifically: it should be possible to exchange 365 units of snapr for all of the necessary food, clothing, shelter and communication requirements of one individual for a period of one year.
+
 if you are exchanging fiat or other currency for snapr, you should acknowledge this aspiration by providing a fiat exchange value equivalent to the cost of daily human survival in the region in which the snapr side of the  transaction originates. there is no enforcement mechanism envisaged or realised for this aspiration but it is hoped that the motivations and intentions of those transacting snapr are aligned with this aspiration.
 
 ## using snapr
