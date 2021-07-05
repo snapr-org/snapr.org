@@ -69,8 +69,12 @@ module.exports = {
           title: 'systems',
           items: [
             {
-              label: 'telemetry',
-              href: 'https://telemetry.snapr.org',
+              label: 'testnet',
+              href: 'https://telemetry.snapr.org/#/snapr%20testnet',
+            },
+            {
+              label: 'mainnet',
+              href: 'https://telemetry.snapr.org/#/snapr%20mainnet',
             },
           ],
         },
