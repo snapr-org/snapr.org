@@ -13,26 +13,26 @@ module.exports = {
   organizationName: 'snapr-org',
   projectName: 'snapr.org',
   themeConfig: {
-    image: 'img/u2665-ad2d6f-512.png',
+    image: 'img/u2665-ad2d6f-256.png',
     metadatas: [
       {
-        name: 'og:url',
+        property: 'og:url',
         content: 'https://snapr.org/',
       },
       {
-        name: 'og:title',
+        property: 'og:title',
         content: 'snapr',
       },
       {
-        name: 'og:description',
+        property: 'og:description',
         content: 'economy with ♥ for people, by people',
       },
       {
-        name: 'og:image',
-        content: 'img/u2665-ad2d6f-512.png',
+        property: 'og:image',
+        content: 'img/u2665-ad2d6f-256.png',
       },
       {
-        name: 'og:type',
+        property: 'og:type',
         content: 'website',
       },
     ],
