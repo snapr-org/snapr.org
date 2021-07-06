@@ -1,11 +1,11 @@
 ---
-id: faq
+id: fapq
 hide_title: true
-sidebar_label: faq
+sidebar_label: philosophical questions
 sidebar_position: 2
 ---
 
-## frequently asked questions
+## frequently asked philosophical questions
 
 <details>
   <summary>what is unconditional or universal basic income?</summary>

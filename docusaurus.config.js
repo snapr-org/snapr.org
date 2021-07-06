@@ -51,8 +51,12 @@ module.exports = {
               to: 'docs/introduction',
             },
             {
-              label: 'questions',
-              to: 'docs/faq',
+              label: 'philosophical questions',
+              to: 'docs/fapq',
+            },
+            {
+              label: 'technical questions',
+              to: 'docs/fatq',
             },
           ],
         },
