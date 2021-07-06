@@ -15,6 +15,14 @@ sidebar_position: 2
 </details>
 
 <details>
+  <summary>what is unconditional basic income?</summary>
+  
+  #### what is unconditional or universal basic income?
+  
+  > there's a good explanation on wikipedia at: [universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income)
+</details>
+
+<details>
   <summary>does snapr make humans lazy?</summary>
   
   #### does snapr make humans lazy, since they aren't required to work for a share?
