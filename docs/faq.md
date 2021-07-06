@@ -1,8 +1,9 @@
 ---
+id: faq
+title: frequently asked questions
+sidebar_label: faq
 sidebar_position: 2
 ---
-
-## frequently asked questions
 
 <details>
   <summary>does snapr provide an unconditional basic income?</summary>
