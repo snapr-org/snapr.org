@@ -31,3 +31,14 @@ sidebar_position: 2
     <p>the snapr mission is to reduce suffering caused by a lack of the fundamentals of human survival. there may be other causes dedicated to reducing human laziness, but this is not on the snapr agenda.</p>
   </blockquote>
 </details>
+
+<details>
+  <summary>who would accept snapr in payment?</summary>
+  <blockquote>
+    <p>anyone who has a snapr wallet.</p>
+    <p>most cryptocurrencies struggle to reach large numbers of humans prepared to hold or exchange that crypto for goods or services because most cryptocurrencies must be bought.</p>
+    <p>since snapr is obtained free of charge, but at a throttled pace, the number of humans who may already have a wallet, is likely to grow faster than it does for cryptocurrencies that must be bought. mostly because the economic barrier to entry is lower for free cryptocurrencies than it is for crypto that can only be bought or received in exchange for goods or services. everyone (who requests it) gets snapr for free, every day if they create a wallet and identity and get it validated.</p>
+    <p>in short, you could speed up the success of snapr as an unconditional or universal basic income, by accepting it in payment for your own goods and services.</p>
+    <p>if you aren't ready to do that, don't worry. snapr is intended to help the worlds poorest humans and they can be a lot faster at accepting a free helping hand, than those who are in less need. the world's <em>have-nots</em> are more plentiful than its <em>haves</em> and it's the <em>have-nots</em> who will bring crypto based ubi to its intended purpose.</p>
+  </blockquote>
+</details>
