@@ -50,6 +50,10 @@ module.exports = {
               label: 'introduction',
               to: 'docs/introduction',
             },
+            {
+              label: 'questions',
+              to: 'docs/faq',
+            },
           ],
         },
         {
