@@ -8,6 +8,7 @@ sidebar_position: 5
 
 - registration of a legal entity to steward the snapr balance allocations and faucet stash accounts.
 - definition of and onboarding procedure for the snapr stewardship forum.
+- homepage content (snapr.org)
 
 ### technical
 
@@ -16,3 +17,15 @@ sidebar_position: 5
 - the identity signing piece requires thought and design. requires technical architecture competence.
 - implementation of the faucet queuing mechanism for daily payouts. requires rust (lambda) and/or nodejs competence.
 - implementation of the payouts mechanism. requires rust (lambda) and/or nodejs competence.
+- deployment of testnet.
+- homepage design and graphics (snapr.org). requires graphic design competence.
+
+## what is already done?
+- forking of the substrate node/runtime codebase and general snapr customisations
+- forking of the telemetry codebase and general snapr customisations
+- genesis chain spec (can be revisited if the balance allocation is determined to need revision by the stewardship forum)
+- deployment codebase
+- telemetry deployment
+- mainnet deployment
+- mainnet and testnet key generation
+- mainnet launch
