@@ -13,13 +13,13 @@ module.exports = {
   organizationName: 'snapr-org',
   projectName: 'snapr.org',
   themeConfig: {
+    image: 'img/u2665-ad2d6f.png',
     navbar: {
       title: 'snapr',
       logo: {
         alt: 'snapr heart',
         src: 'img/u2665-ad2d6f.svg',
       },
-      image: 'img/u2665-ad2d6f.png',
       items: [
         {
           type: 'doc',
