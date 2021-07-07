@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'snapr',
-  tagline: 'economy with ♥ for people, by people',
+  tagline: 'decentralised economy with ♥ for people, by people',
   url: 'https://snapr.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -25,7 +25,7 @@ module.exports = {
       },
       {
         property: 'og:description',
-        content: 'economy with ♥ for people, by people',
+        content: 'decentralised economy with ♥ for people, by people',
       },
       {
         property: 'og:image',
