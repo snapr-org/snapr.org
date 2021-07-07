@@ -34,7 +34,7 @@ only SNAPR account balances at the time of the failure would carry over to a rep
 snapr testnet is a common playground for deploying and testing defi apps. it is
 recommended to first deploy apps on the testnet before launching on mainnet.
 
-{{< alert icon="⚠️" text="snapr testnet tokens have no value and may be destroyed on testnet upgrades." >}}
+⚠️ **snapr testnet tokens have no value** and may be destroyed on testnet upgrades.
 
 ### testnet info sheet
 
