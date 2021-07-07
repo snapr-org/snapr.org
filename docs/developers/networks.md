@@ -13,7 +13,6 @@ only SNAPR account balances at the time of the failure would carry over to a rep
 
 ### mainnet info sheet
 
-```
 | key                 | value                    |
 | ------------------- | ------------------------ |
 | currency            | SNAPR                    |
@@ -28,7 +27,7 @@ only SNAPR account balances at the time of the failure would carry over to a rep
 | websocket           | wss://trillian.snapr.com |
 | websocket           | wss://ford.snapr.net     |
 | websocket           | wss://arthur.snapr.org   |
-```
+
 
 ## snapr testnet
 snapr testnet is a common playground for deploying and testing defi apps. it is
@@ -38,7 +37,6 @@ recommended to first deploy apps on the testnet before launching on mainnet.
 
 ### testnet info sheet
 
-```
 | key                 | value            |
 | ------------------- | ---------------- |
 | currency            | SNAPR            |
