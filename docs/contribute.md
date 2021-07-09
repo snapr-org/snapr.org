@@ -25,7 +25,7 @@ sidebar_position: 5
 - forking of the [telemetry codebase](https://github.com/snapr-org/snapr-telemetry) and general snapr customisations
 - forking of the [explorer codebase](https://github.com/snapr-org/explorer) and general snapr customisations
 - genesis [chain spec](https://github.com/snapr-org/snapr/blob/main/assets/chain_spec_mainnet.json) (can be revisited if the balance allocation is determined to need revision by the stewardship forum)
-- deployment codebase (terraform)
+- [deployment codebase](https://github.com/snapr-org/great-green-arkleseizure) (terraform)
 - telemetry deployment (api, ui)
 - explorer deployment (rds, gql, ui)
 - mainnet deployment (bootnodes: trillian, ford, arthur)
