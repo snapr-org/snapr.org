@@ -21,10 +21,10 @@ sidebar_position: 5
 - homepage design and graphics (snapr.org). requires graphic design competence.
 
 ## what is already done?
-- forking of the substrate node/runtime codebase and general snapr customisations
-- forking of the telemetry codebase and general snapr customisations
-- forking of the explorer codebase and general snapr customisations
-- genesis chain spec (can be revisited if the balance allocation is determined to need revision by the stewardship forum)
+- forking of the [substrate node/runtime codebase](https://github.com/snapr-org/snapr) and general snapr customisations
+- forking of the [telemetry codebase](https://github.com/snapr-org/snapr-telemetry) and general snapr customisations
+- forking of the [explorer codebase](https://github.com/snapr-org/explorer) and general snapr customisations
+- genesis [chain spec](https://github.com/snapr-org/snapr/blob/main/assets/chain_spec_mainnet.json) (can be revisited if the balance allocation is determined to need revision by the stewardship forum)
 - deployment codebase (terraform)
 - telemetry deployment (api, ui)
 - explorer deployment (rds, gql, ui)
