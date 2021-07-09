@@ -23,9 +23,11 @@ sidebar_position: 5
 ## what is already done?
 - forking of the substrate node/runtime codebase and general snapr customisations
 - forking of the telemetry codebase and general snapr customisations
+- forking of the explorer codebase and general snapr customisations
 - genesis chain spec (can be revisited if the balance allocation is determined to need revision by the stewardship forum)
-- deployment codebase
-- telemetry deployment
-- mainnet deployment
+- deployment codebase (terraform)
+- telemetry deployment (api, ui)
+- explorer deployment (rds, gql, ui)
+- mainnet deployment (bootnodes: trillian, ford, arthur)
 - mainnet and testnet key generation
 - mainnet launch
