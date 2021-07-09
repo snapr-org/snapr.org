@@ -100,11 +100,11 @@ module.exports = {
           title: 'systems',
           items: [
             {
-              label: 'testnet',
-              href: 'https://telemetry.snapr.org/#/snapr%20testnet',
+              label: 'explorer',
+              href: 'https://explorer.snapr.com',
             },
             {
-              label: 'mainnet',
+              label: 'telemetry',
               href: 'https://telemetry.snapr.org/#/snapr%20mainnet',
             },
           ],
