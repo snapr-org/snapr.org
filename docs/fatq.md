@@ -29,6 +29,14 @@ sidebar_position: 3
         </ul>
       </li>
       <li>
+        <a href="https://explorer.snapr.com">explorer</a>
+        <ul>
+          <li>elb (frankfurt ~ $19.71 monthly)</li>
+          <li>gql (frankfurt, 2 × t3.micro, 120gb ~ $34.90 monthly)</li>
+          <li>rds (frankfurt, db.t3.micro, 120gb ~ $63.42 monthly)</li>
+        </ul>
+      </li>
+      <li>
         <a href="https://telemetry.snapr.org/#/snapr%20mainnet">telemetry</a>
         <ul>
           <li>api (frankfurt, t3.micro, 120gb ~ $17.45 monthly)</li>
