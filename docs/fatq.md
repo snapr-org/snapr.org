@@ -18,7 +18,7 @@ sidebar_position: 3
   <summary>what does it cost to run snapr?</summary>
   <blockquote>
     <p>a little more than nothing, considering the potential.</p>
-    <p>we run a few cloud services per deployment. it comes in around $500 monthly. here's the mainnet breakdown (see [aws calculator](https://calculator.aws)):</p>
+    <p>we run a few cloud services per deployment. it comes in around $500 monthly. here's the mainnet breakdown (see <a href="https://calculator.aws">aws calculator</a>):</p>
     <ul>
       <li>
         bootnodes (substrate validators)
