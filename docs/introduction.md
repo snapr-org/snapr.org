@@ -46,8 +46,22 @@ specifically: it should be possible to exchange 365 units of snapr for all of th
 
 if you are exchanging fiat or other currency for snapr, you should acknowledge this aspiration by providing an exchange value equivalent to the cost of daily human subsistence in the region in which the snapr side of the  transaction originates. there is no enforcement mechanism envisaged or realised for this aspiration but it is hoped that the motivations and intentions of those transacting snapr are aligned with this aspiration.
 
-## using snapr
+## how do i claim my basic income?
 
-snapr is still in development, so it's not very easy to use right now. however, if you are familiar with substrate tools, like polkadot.js, you may create a wallet and associate it with your signed identity. the intent is to commence distribution of snapr to wallets associated with a unique, signed identity as early as possible.
+1. create a *wallet* (also called an *account*)
 
-in the spirit of decentralisation, anyone who already has a signed identity, may sign the identity of anyone they know and trust to be using only one unique identity. credibility with the distribution algorithm may be won or lost by providing signatures to honest or dishonest identities respectively (see: [signatures](identity/signatures)).
+   your wallet is used to receive your universal basic income entitlement. it's a digital wallet which uses a passphrase that is special and unique to you. as long as you remember your passphrase, you will have access to your funds. you can use a physical device, like a smartphone or computer to store your passphrase, but you don't have to. you can store your passphrase in your head. your memory is enough to access your funds.
+
+2. verify your *identity*
+
+   your entitlement to universal basic income is linked to living. the faucet will atempt to deliver one token per day to each living person. since there's only one of you, verifying your identity prevents someone else from pretending to be you in order to claim your income fraudulently. it prevents dishonest claims for more income than one person's entitlement.
+
+   choose an identity verifier that is trustworthy. untrustworthy verifiers may become disqualified by acting dishonestly or without due care. if this happens, you will need to begin the identity verification process again.
+
+3. link your *identity* to your *wallet*
+
+   your identity verifier will help you to manage associating your identity with a wallet so that the faucet knows where to send your funds. if you lose access to your wallet, you can create a new wallet and associate it with your identity. if you lose access to your identity verifier, you can restart the identity verification process with any other qualified identity verifier.
+
+4. allow the *faucet* to start funding your *wallet*
+
+   the universal basic income faucet will attempt to credit the wallet of each verified identity with one token each day. it will continue to do this every day that the identity remains valid until the faucet runs dry ,which will probably happen in 2032 when all tokens have been dispersed.
