@@ -14,9 +14,9 @@ snapr is a level-one, proof-of-stake chain which means that it has no upstream d
 
 ### who keeps snapr running?
 
-- **everyone and anyone** supports the network just by using it.
+- **everyone and anyone** supports the network just by using it. small usage fees finance the independent entities who provide imperative services for the network.
   - every time tokens are sent or received, a very small transaction fee is paid to a *validator* who process the transaction.
-  - each time an identity is verified a small fee is paid to the entity who verifies the identity. these fees incentivise the independent entities who provide these imperative services for the network.
+  - each time an identity is verified a small fee is paid to the entity who verifies the identity.
 - **transaction validators** are independent node operators who process all transactions on the network. validating is incentivised by the transaction fees paid to validator maintainers for each transaction they process. anyone may validate on the network by maintaining a validator node and submitting the validator bond.
 - **identity verifiers** are independent entities who process identity verifications for the users of the network. validating is incentivised by the transaction fees paid to validators for each transaction they process. anyone may validate on the network by running a validator node and submitting the validator proof-of-stake bond.
 
