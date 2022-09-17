@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # identity
 
-identity in the context of universal basic income is linked to *life*. more specifically: *birth*, *living* and *death*. it is important for the success of this project that people are not able to create multiple identities and claim more than a single person's daily entitlement. it is unimportant for an identity on this network to broadcast personal details like name, age, gender, nationality, ethnicity. an identity verifier may need to understand those things, but the larger, basic income network, does not need or require that information.
+identity in the context of universal basic income is linked to *life*. more specifically: *birth*, *living* and *death*. it is important for the success of this project that people are not able to create multiple identities and claim more than a single person's daily entitlement. it is unimportant for an identity on this network to broadcast personal details like name, age, gender, nationality, ethnicity. an identity verifier may need to understand those things, but the larger, basic income network, does not require, need or collect that information.
 
 ## identity verifier
 
