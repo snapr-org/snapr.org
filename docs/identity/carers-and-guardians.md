@@ -2,12 +2,6 @@
 sidebar_position: 2
 ---
 
-# carers and guardians
+# carers and guardianship
 
-## eligibility for payouts in respect of minors and those in care
-
-carers and guardians may take responsibility for creation and management of (snapr) identity and payout address on behalf of those for whom they are caring.
-
-guardians must annotate the created identity to note that it was created on behalf of a person in their care.
-
-a guardian may sign identities they have created but should consider that if their own identity loses eligibility for payouts (through signature revocation or otherwise), then those in their care may also lose eligibility for payouts if they do not have an alternative signatory.
+the legal guardian of a minor or other person under guardianship, may maintain the wallet and identity of those under their care and spend or otherwise distribute the daily allowance of those under their care. legal guardianship is determined by the laws and customs of an individual's residential jurisdiction.
